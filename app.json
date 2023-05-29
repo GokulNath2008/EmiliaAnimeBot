@@ -1,13 +1,13 @@
 {
-      "name": "EmiliaBot",
+      "name": "Sogeking",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/3cf1be03a3b1653cc98d1.jpg", 
+      "logo": "https://telegra.ph/file/ed4d0a24be4afb6a6a9b6.jpg", 
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Emilia"
+         "Sogeking"
       ],   
    "repository": "https://github.com/IzumiCypherX/EmiliaAnimeBot",
    "addons": [
